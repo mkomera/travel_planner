@@ -5,7 +5,7 @@ This intelligent AI-powered Travel Planner chatbot is capable of managing user p
 
 ## Background
 
-The chatbot is developed to improve the user experience in travel planning by delivering customized support. It suggests top hotels and builds personalized itineraries based on selected destinations. With the help of advanced algorithms and user data, it simplifies the travel planning process for greater ease and enjoyment. *(Note: Additional search functionalities will be added in future enhancements.)*
+The chatbot is developed to improve the user experience in travel planning by delivering customized support. It suggests top hotels and builds personalized itineraries based on selected destinations. With the help of advanced algorithms and user data, it simplifies the travel planning process for greater ease and enjoyment. 
 
 ## Objectives
 
@@ -63,7 +63,7 @@ The chatbot is developed to improve the user experience in travel planning by de
 
 ### 5. Frontend Design
 
-- `conversation_bot.html`:  
+- `bot.html`:  
   A user-friendly interface built with HTML and JavaScript for smooth chatbot interaction.
 
 ## System Architecture
